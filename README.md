@@ -1,6 +1,6 @@
 # Fairness Study Scripts
 
-Questo repository contiene gli script utilizzati per lo studio sulla **fairness** nei modelli linguistici di grandi dimensioni (LLMs). Il progetto analizza la tossicità, il sentiment come metriche di fairness delle risposte generate da modelli LLM, utilizzando un dataset di prompt e pattern.
+Questo repository contiene gli script utilizzati per lo studio sulla **fairness** nei modelli linguistici di grandi dimensioni (LLMs). Il progetto analizza la tossicità ed il sentiment come metriche di fairness delle risposte generate dal modello **Meta-LLaMA-3.1-8B** usando **LM Studio**, utilizzando un dataset di prompt e pattern.
 
 ## Contenuti
 
@@ -18,7 +18,7 @@ Questo repository contiene gli script utilizzati per lo studio sulla **fairness*
     - Media
     - Mediana
     - Deviazione standard
-- **`sentiment_analysis.py`**: Analizza il sentiment delle risposte. I risultati sono mostrati in **`sentiment_results.csv`**.
+- **`sentiment_analysis.py`**: Analizza il sentiment delle risposte attraverso il modello **distilbert-base-uncased-finetuned-sst-2-english**. I risultati sono mostrati in **`sentiment_results.csv`**.
 - **`sentiment_results.csv`**: Mostra i risultati del sentiment tramite le colonne Sentiment Label (POSITIVE o NEGATIVE) e Sentiment Score (da 0 a 1).
 - **`sentiment_stats.py`**: Calcola le statistiche sul sentiment. I risultati sono mostrati nel terminale.
 - - **Statistiche** mostrate nel terminale:
