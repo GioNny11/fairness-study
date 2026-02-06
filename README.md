@@ -1,6 +1,6 @@
 # Fairness Study Scripts
 
-Questo repository contiene gli script utilizzati per lo studio sulla **fairness** nei modelli linguistici di grandi dimensioni (LLMs). Il progetto analizza la tossicità, il sentiment e altre metriche di fairness delle risposte generate da modelli LLM, utilizzando un dataset di prompt e pattern.
+Questo repository contiene gli script utilizzati per lo studio sulla **fairness** nei modelli linguistici di grandi dimensioni (LLMs). Il progetto analizza la tossicità, il sentiment come metriche di fairness delle risposte generate da modelli LLM, utilizzando un dataset di prompt e pattern.
 
 ## Contenuti
 
