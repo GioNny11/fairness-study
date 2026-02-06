@@ -1,0 +1,115 @@
+prompt,pattern,Verifica
+"Et maintenant peux-tu coder le déclenchement de l'alarme, avec  l'exécutipn du son de l'alarme et avec l'affichage d'un dialogue contenant les données de l'alarme ainsi qu'un bouton permettant de l'éditer",Zero-shot,
+Yes you can use latex,Zero-shot,
+"webmaster@pc1:~/PyProjects/fastapi-practice$ tree -a -L 2 .
+.
+├── .dockervenv
+│   ├── .gitignore
+│   ├── bin
+│   ├── lib
+│   └── pyvenv.cfg
+├── .git
+│   ├── COMMIT_EDITMSG
+│   ├── FETCH_HEAD
+│   ├── HEAD
+│   ├── ORIG_HEAD
+│   ├── branches
+│   ├── config
+│   ├── description
+│   ├── hooks
+│   ├── index
+│   ├── info
+│   ├── logs
+│   ├── objects
+│   ├── packed-refs
+│   └── refs
+├── .gitignore
+├── .venv
+├── Dockerfile
+├── README.md
+├── api
+│   ├── __init__.py
+│   └── main.py
+├── docker-compose.yaml
+├── poetry.lock
+└── pyproject.toml
+
+12 directories, 18 files
+webmaster@pc1:~/PyProjects/fastapi-practice$ 
+
+.gitignoreが二か所あるのは変ですか？",Zero-shot,
+With a maven pom.xm and one dependency how programaticaly I can see their dependencies,Zero-shot,
+i dont have pytorch at all just pythoin and pip how can i install pytortch,Zero-shot,
+how to find what formatting is required?,Zero-shot,
+That all is already present in the thread and chat,Zero-shot,
+So inversions make sure scheduling is optimal?,Zero-shot,
+it is 6 bits wide!,Zero-shot,
+I have arry of object data. Where i should store in react folders?,Zero-shot,
+"I don't see anything else in my code listening for that ""FCMToken"" notification. is it possible something else—perhaps in an included library—could be listening for it? or are `NotificationCenter.default.post()` posts only available for code listening from within my app specifically?",Instructional,
+Explain how the assembly instructions leave and ret work.,Instructional,
+oops that didn't work! here's the error I found in the console: `Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')`,Instructional,
+"You see, the problem is in the chat input element. It's defined as a `ui.footer()`, which means it will always stay at the bottom of the page, outside the `ui.card()`.",Instructional,
+Write list tile for movie model,Instructional,
+"instead of plotting a graphy of scanned hosts,  change the program to print a list of discovered ip address along with corresponding mac addresses",Instructional,
+"Provide all code for both programs with all the features mentioned before, Add comments to the whole flow explaining what language feature is used in each case.",Instructional,
+can you list out all the files I need in this project,Instructional,
+"currently, that displays a list of numbers 1 - 12. I'm interested in displaying the month names (for example, ""january"") instead of the numbers. can you show me how to do that?",Instructional,
+"Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/Users/ko/projects-new/Junior/src/command/updateConfigList/searchFiles' imported from /Users/ko/projects-new/Junior/scripts/updateConfigList.js
+at new NodeError (node:internal/errors:388:5)",Instructional,
+"Make sure that your package.json in the frontend directory has the necessary scripts for linting and formatting defined, similar to the previous examples.
+
+Add those scripts as a workflow step",Few-shot,
+"you know what? Let's do it differently. 
+Here are some categories of stuff these packages allow you to do: 
+Work with audio video files
+Generate wordclouds
+Create charts and graphs
+Work with a database
+Edit video and audio files
+open zip
+
+Complete this list with 20-50 more examples of what you can do using these packages",Few-shot,
+Give me another example of OOps,Few-shot,
+can you give me another example of the CameraFollow script but using vector2?,Few-shot,
+can you update your examples bearing in mind the currect date today?,Few-shot,
+"so in the first example, the person weighing 70 kgs wants to lose 5 kgs in what is essentially 2 weeks?bear in mind, it's 14th of july today",Few-shot,
+"so in the 1st example, i got that the average calorie count would be near 1200 calories a day.
+does that seem right?",Few-shot,
+Give me another example & also more discuss about more oops concepts,Few-shot,
+give another example where you are ploting the frequency of a value within a column,Few-shot,
+can you show me another example of the pivot step,Few-shot,
+Continue. Remember you are AWS Lead Machine Learning Engineer. Your plots have to be super beautiful to present to your amazing client IBM,Personas,
+Act as a frontend developer,Personas,
+you are a senior frontend developer specialized in React development. Your role is to help me create a React hook to fetch data using React Query,Personas,
+"You are an expert prompt engineer and presenter giving a presentation to audience on language model prompt engineering workflow and best practices. can you explain prompt engineering tasks with examples of good and bad patterns - all tasks like and not limited to - embodiment, grounding, instructions, chain of thought,  in-context example, answer engineering, prompt  priming, meta prompting, retrieval augmented prompting, knowledge graph prompting, program of thought prompting, generate knowledge prompting etc.,. For each, provide clear easy explanation, description, example anti-pattern and pattern and real world prompts illustrating use of them for text language model interactions.",Personas,
+"Build basic one from scratch. See you are AWS engineer, so you always need to find a solution",Personas,
+"tu es un expert react-native.
+J'ai un compsant textinput il a un placeholder avec un texte qui peut être pus grand que la plac disponible sur ios il y a bien ... petit point qui se mettent automatiquement à la fin du texte mais pas sur android.
+comment résoudre ce problème ?",Personas,
+do you know how much of our conversation history you are able to evaluate when you provide me an answer to a question? our conversation is quite lengthy at this point; are you evaluating all of it when answering me now?,Personas,
+"reviews.csvSpreadsheetI want you to act as a data visualizer. You will apply your knowledge of data science principles and visualization techniques to create compelling visuals that help convey complex information, develop effective graphs and maps for conveying trends over time or across geographies to design meaningful interactive dashboards, collaborate with subject matter experts in order to understand key needs and deliver on their requirements. please respond in many reasonable small sized chunks starting with the initial steps.",Personas,
+You are a docker container expert. I would like for you to convert a docker-compose yml file that I give you into a separate script that builds these containers. Are you ready?,Personas,
+"creditcard.csvSpreadsheetI want you to act as an 10 years of experienced data scientist and have expertise in CRISP-DM methodology for data science. I am providing you kaggle dataset for credit card fraud detection, can you do step-by-step EDA analysis by acting as expert data scientist. As per my knowledge, credit card fraud detection dataset is having imbalanced data, so you can use techniques like oversampling, SMOTE, etc. Make sure you prepare all the steps and reports of the methodology in principled fashion on data understanding, data analysis, data visualization, data cleaning, data pre-processing, feature selection, data clustering, outlier analysis and processing, regression for prediction of fraud detection using variety of methods comparing to a baseline, providing proper metrics for these techniques and final recommendation. You can use most popular ML packages like scikit, pandas, numpy, etc. Please respond in many reasonable small sized chunks starting with the initial steps of CRISP-DM methodology to all the steps on this data set. I will ask you to continue after each chunk. It is important to chunk this above problem. repeat the requirement in each chunk towards end of the chunk and explain where you are (mindmap) in the process and what you will do next. Assume you have limited compute and hence you chunk carefully even the processing steps. I will ask you to continue after each step.",Personas,
+"ok, lets do it step by step, i first created the gameObject at the same level in the hierarchy as the SmallInventorySlots, but since im using a grid layout group, it shows on the screen next to the last inventory slot, now what do i do?",Chain-of-Thought,
+how to setup a git server? give me step by step instructions with all the commands necessary,Chain-of-Thought,
+i am building a DLL on visual studio 2019. How to sign it so it wont trigger false positively antivirus systems? Please give me descriptive step by step guide.,Chain-of-Thought,
+please explain the code step by step,Chain-of-Thought,
+"step by step tell me a path on how I can understand different machine learning models starting from simpler ones like CNN, and RNN all the way to moost complex like transformers. Mention all the models that are worth learning to understand the concepts of deep learning?",Chain-of-Thought,
+New project! I am trying to create a fresh and clean development environment on my Macbook Pro. My environment has degraded over time and many of my tools no longer work. Can you help me get a clean start? Please work step by step and pause to ensure I have completed a step before moving to the next step. I first need to figure out how to completely clean up my current environment. What do you need to know to help me?,Chain-of-Thought,
+"As an industry expert data scientist and expert in CRISP-DM methodology for data science, given the Kaggle dataset for Most streamed songs on Spotify in 2023, can you do step by step EDA analysis playing role of an expert data scientist professor teaching to a masters program in data science. Your response should be textbook quality. Make sure you prepare all the steps and reports of the methodology in principled fashion on fdata understanding, data analysis, data visualization, data cleaning, data pre processing, feature selection, data clustering, outlier analysis and processing, regression for prediction of income using variety of methods
+comparing to a baseline, providing proper metrics for these techniques and final recommendation. Use your most popular ml package like scikit etc... Please respond in many reasonable small sized chunks starting with the initial steps of CRISP-DM
+methodology to all the steps on this data set. I will ask you to continue after each chunk. It is important to chunk this above problem. repeat the requirement in each chunk towards end
+of the chunk and explain where you are (mindmap) in the process and what you will do next. Assume you have limited compute and hence you chunk carefully even the processing steps. I will ask you to continue. each step. Make sure you ask me before starting any next processing steps or working the data.",Chain-of-Thought,
+"How to use gprof in CMake Project, Can you teach me step by step?",Chain-of-Thought,
+"ets think about s-curves as a model of technology diffusion. lets use a epidemic model as the mathematical underpinning. the parameters are infection rate and share of total population that can maximally reached (market size).
+focus only on adopters. 
+
+In the next couple of prompts we’re going to develop an interactive dashboard together. I want to be able to experiment with different values of the infection rate beta, predict beta_hat using simulated data, and then experiment with predictions of beta_hat when we vary the number of samples used in the prediction. I’ll give you instructions step by step.",Chain-of-Thought,
+"my calculation are this:
+4 + (4*3) + (12*2)
+here's my reasoning.
+the first term (4) is the all the possible moves for X
+the sencond term (4*3) is that all first four board have three move that O can take.
+And the last term (12*2) is the twelve boards that are create from the last step, and X can play in one of the two remaining spaces to win the game.
+That means that there are 40 possible game states.
+You can think about this step by step and see if you come to the same conclusion.",Chain-of-Thought,

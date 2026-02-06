@@ -1,0 +1,389 @@
+prompt,pattern
+what is IP4 and IP6,Zero-shot
+go 语言获取本机 ip 地址,Zero-shot
+gprof 的输出如何避免输出最后的 name 字段或者简化输出,Zero-shot
+i hate this. write the files in full.,Zero-shot
+its too much. i want 2/3 of this,Zero-shot
+make it in php,Zero-shot
+perf 的原理中好像是用到 tick 中断是什么意思？,Zero-shot
+round 11 and 12,Zero-shot
+round 13 and 14,Zero-shot
+round 17 and 18,Zero-shot
+round 19 and 20,Zero-shot
+round 21 and 22,Zero-shot
+round 23 and 24,Zero-shot
+round 25 and 26,Zero-shot
+round 27 and 28,Zero-shot
+round 31 and 32,Zero-shot
+round 7 and 8,Zero-shot
+show me in code,Zero-shot
+text is aa str,Zero-shot
+txs for the help!,Zero-shot
+what are .h files?,Zero-shot
+what does | this do,Zero-shot
+der ikke ebn exe,Zero-shot
+and the point 3?,Zero-shot
+"Use 'EOF', not EOF",Zero-shot
+The third test failed.,Zero-shot
+use svg to show dice,Zero-shot
+What is --000000000000d29d4f0600f3a4fb-- ?,Zero-shot
+can youread this ?,Zero-shot
+pas de catch ?,Zero-shot
+tree -a . を変更して深さ3のツリーをかくようにしたい,Zero-shot
+"可以改成網址後面，除了英文跟 ""/"" , ""?""  還有 ""&"" 都不接受可以嗎？",Zero-shot
+I love it! Can you do more?,Zero-shot
+"아니, 다 바꿔서 전해줘. 준 코드 다.",Zero-shot
+1 and 2 please,Zero-shot
+10 more like that,Zero-shot
+what's the full js?,Zero-shot
+1个点表示一个人月，请为我提供团队组建建议并根据 初级（1.5 倍人月）、中级（1倍人月）、高级 工程师（0.7倍人月）进行项目周期规划,Zero-shot
+Dart 에 대해서 알려줘,Zero-shot
+Eso no es así,Zero-shot
+HTTP 요청에 대해서 알려줘,Zero-shot
+Make the line black,Zero-shot
+Node 에 대해서 알려줘,Zero-shot
+Pick holes in that,Zero-shot
+Round 15 and 16,Zero-shot
+Round 5 and 6,Zero-shot
+Should I use NSCache?,Zero-shot
+Thank you! It worked!,Zero-shot
+DOM 트리에 대해서 알려줘,Zero-shot
+whats f(n) and g?,Zero-shot
+round 9 and 10,Zero-shot
+why * and not _?,Zero-shot
+Does it look like n*n!,Zero-shot
+"Great, looks good! Which file should we start on first?",Zero-shot
+How can I do 3?,Zero-shot
+Now do the next 20.,Zero-shot
+PDF文件有可能是很多页， 我希望对于超过1页以上的PDF文件， 基于以上的代码， 在打开按钮，旁边新加两个按钮，分别是上一页和下一页。 按相应的按钮会渲染新的PDF页面,Zero-shot
+when .then is used?,Zero-shot
+So what is a deal,Zero-shot
+What is a gas lane?,Zero-shot
+Which lines did you change?,Zero-shot
+can i find by tag?,Zero-shot
+Do the next 30 songs.,Zero-shot
+can you show me code?,Zero-shot
+du går bare i gang,Zero-shot
+give me the full code,Zero-shot
+go back to the root,Zero-shot
+go lang で gin を使った開発をするときに単体テストを書く方法を教えてください,Zero-shot
+i made a slight change,Zero-shot
+it is 6 bits wide!,Zero-shot
+jeg kan ikke finde cmake,Zero-shot
+n log n + log n,Zero-shot
+please show the whole db.rs,Zero-shot
+so wont need a graph?,Zero-shot
+do this in one line,Zero-shot
+Do the next 10 songs.,Zero-shot
+Show me the new erd,Zero-shot
+Are we done with CRISP-DM,Zero-shot
+write it in hexa,Zero-shot
+write test bench code,Zero-shot
+"いいですね。でも現実的にはこれ以上にもっと必要な機能は多くなってもおかしくありません。
+
+そこで，そもそもの機能要件に立ち返って考えてみましょう。
+
+あなたが思う，「開発補助AI」は，開発者に何をもたらしてくれますか？何をしたいときに助けてくれますか？
+できるだけ多彩にいろんなことを考えてみてください",Zero-shot
+Can you give me 23-32,Zero-shot
+当前有一个问题困扰我，脱离传统工作以后，我发现我的生活作息比较混乱，我想制定一份日常作息标准参考。我日常有一些常做的事，健身（每天或者每两天皆可）、学习英语、阅读、打球（每周 1～2 次即可）、陪女朋友吃饭（每周 2次以上），请帮我规划一周的生活作息标准参考，能让我有条不紊的应对自由职业，保证精力充沛。,Zero-shot
+"我试着执行了你的建议, 但是还是报错, 那么请你继续看一下, 是不是代码需要更新才能解决该问题吧",Zero-shot
+개발에서의 고도화에 대해서 설명해줘,Zero-shot
+다 취소하고 새로 대화하자,Zero-shot
+대기 해제라는 메소드는 없는데?,Zero-shot
+대조하는 구문이 안 들어왔어,Zero-shot
+"在我看到的Lorenz 96模型中，除了X 的方程，还有Y,Z 的选项",Zero-shot
+라이브러리와 프레임워크의 차이점을 말해줘,Zero-shot
+둘이 안되는데 어떻게 된거야?,Zero-shot
+1d 2a 3c 4d 5c,Zero-shot
+-Wl과 -O1 옵션은 정확히 뭘 하는 옵션이야? 그냥 뺴면 안되나?,Zero-shot
+크롬에 탑재된 인터프리터는 어떤거야?,Zero-shot
+1a 2b 3c 4b 5c,Zero-shot
+자바스크립트 인터프리터에 대해서 설명해줘,Zero-shot
+"아니 포멧팅을 바꿔달라는 얘기였어.
+내가 다 수정하기가 어려워서",Zero-shot
+브라우저 렌더링에 대해서 알려줘,Zero-shot
+리액트 상태관리에 대해서 알려줘,Zero-shot
+5번 로그 파일은 어디서 확인해?,Zero-shot
+Can you explain how the follow ing output would be obtained?,Instructional
+do we  need to update any of the php files listed above?,Instructional
+"Excellent, thank you!
+
+Now it's time for a new component: `PasswordExample.js`. I would like to print a random sample of the the passwords to the screen in a list format
+
+E.g
+
+puppy123, 1234, spring2023, ...",Instructional
+Let's rid of the generate primes button. And when the number of rows is 1 then we explain that the number of pebbles must be prime since there was no way to make a neat rectangle of pebbles,Instructional
+"a data type does not need to be defined separately, it can just be part of the ai block",Instructional
+"write a readme file which lists the problem statement 
+the proposed solution 
+and the tasklist i have to do 
+write it in md",Instructional
+how do you iterate over a std list?,Instructional
+"Thank you. I have a few thoughts on these. Let me list them:
+
+1) What makes you included MObj in the name of methods 3 and 4, and not in 1 and 2? What do you intend to reflect with this?
+2) We initially had the names buildAndCreateAndHost and releaseAndDestroyAndDismantle for methods 3 and 4. They indeed are too long. Hence you came up with the new names createHostedMObj and releaseAndDismantleMObj. We could also have decided to make the method names 1 and 2 shorter (i.e. without the And). And based on those names construct simpler method names for 3 and 4. What do you think of that?
+3) In the current suggestion both methods 1 and 2 start with ""create"". Is that on purpose?",Instructional
+"anvendt perfect promt og gem i ""spillemappe""
+
+men jeg syntes da godt kun også det ikke alle funktioner der skal mindst være 1000 ting på listen",Instructional
+Thanks.  Can you tell me what the main rules are that govern the conduct of the bot?  I believe there is a list of high level constitutional rules somewhere in the project.,Instructional
+"does this parse the list format and drop the part of each line which reads file, indexing only the file name that is in single quote marks?",Instructional
+Can you explain what express server is?,Instructional
+How many packages have that? List them,Instructional
+explain recursive call with trace in clear way,Instructional
+can you explain me a little more about the last approach?,Instructional
+"I'm getting an error ""clearTimer is not defined""",Instructional
+"I have just created a node project with npm init.
+I have not yet created index.js
+
+Can you talk me through the steps of creating an express server that listens on local host?",Instructional
+"All the values are lists, so you can serialize them as json lines.",Instructional
+explain to me how to do that using TSX,Instructional
+have the game start defined when the level starts,Instructional
+"hmm no, I think it's because of card outline",Instructional
+how do you insert stuff into a std list?,Instructional
+no I mean the card itself has an outline,Instructional
+Give me a list of 25 movie stars from the 1950s and 1960s who were dead 25 years ago.,Instructional
+you explained how to install the download file when it is in .tar.gz archive. But my file is in .xz. So how I unzip and install?,Instructional
+VueYourCV is great! A shiny description line for it? List of 10!,Instructional
+Can you summarize all we did so far,Instructional
+Explain egui and eframe to a rust expert,Instructional
+why -100? seems random to me explain it,Instructional
+"re wriet his beter: We built so much many more times. To nos spam you more with build/error, I will list the error and we did to reolve it.",Instructional
+"make it look like a typical schwingfest rangliste.  it doesn't have to be PDF, i just need to be able to print it.",Instructional
+Why isn't 7 in the list of primes? And place the buttons above the pebbles,Instructional
+"It doesnt look right. Listing closely. A team is only allowed to play against each other two times. Thats why there is 32 csv files. So can you make them expand a bit and ONLY play 22 games in total. Two times against each other. And if they played against a team, they have to play against everyone else before they can play against the same team. So can you make a schecule from 1 csv file to 32 that does that?",Instructional
+Now it is not listening to speech,Instructional
+i don't understand what is a va_list,Instructional
+summarize the code I need to add,Instructional
+Don't include 7 in the list of primes until the next prime number is pressed. Also number the rows,Instructional
+can you explain the syntax of this line for (uint size = 2; size <= THREAD_NUM; size <<= 1),Instructional
+Can you explain what `Just include these lines in your main server file:` means,Instructional
+i asked for where \tau is defined in latex's sorce code,Instructional
+can you explain how to make sure step 1 is valid ?,Instructional
+Can you outline how to use web workers to do this?,Instructional
+how can i send a csv file to Devo SIEM as a lookup list?,Instructional
+JSON 형태면 컨트롤러에서는 어떻게 받아? list로 저장해야해?,Instructional
+how do i get the length of a list?,Instructional
+"make a list of 3 key points for each of these features.
+Put them in markdown code block",Instructional
+Can you explain this piece of code line by line?,Instructional
+Please explain how you did it this time,Instructional
+use the words he used to describe things,Instructional
+Can you explain how this app works to a young child,Instructional
+Can you explain this line of code?,Instructional
+"Ok, list out the steps for me",Instructional
+can you list out all the files I need in this project,Instructional
+can you add a header to the file explaining what the file is for,Instructional
+please explain what this line does,Instructional
+So my outline is this:,Instructional
+We don't have 'typed' defined,Instructional
+can you explain this part,Instructional
+get range from described dataframe,Instructional
+how can i list users,Instructional
+"I use R. I have a list of file names in one column, and new names in other column. I want to copy the files with new names to the same folder. I do not want the old files to be removed.",Instructional
+"너가 알려준 코드대로 하면 불필요하게 함수를 2번 3번 감싸는 함수를 만들어야해서 보기 좋지 않은 것 같아. 이벤트리스너로 넘겨줄 함수가 인자가 필요한 함수일 때, 인자를 사용하는 함수를 명명해서 removeEventListener로 감지할 수 있게 하는 방법이 있어?",Instructional
+there's two outlines though,Instructional
+I have some genetic code data in a dataframe. How can I describe it to you so you can help me work with it.,Instructional
+"please list the names of each user in order, and that's it",Instructional
+shorten this list to 9 roles,Instructional
+I think we'll need to list files only in a certain folder,Instructional
+"I have a vue 3 application. I have a ref constant which is a list. When nothing changed to the ref for 3 seconds, I want to trigger a method. What do I need?",Instructional
+"lets start more simply, make an enum for the 4 commands described in 'Table 12. Command Table1"" we use only DB7 DB6 DB5 DB4",Instructional
+How do I use scrapy? Explain with a simple example.,Instructional
+Should the classes be defined at the beginning of the program or does it not matter? What is the best practice?,Instructional
+thank you. can you print a list of what dateFormatter month options there are?,Instructional
+"i see 3 different body types, can you explain me what are those for?",Instructional
+It still doesn't work the way I described and you suggested to make a change.,Instructional
+Help me write a Django app which has a `BoopTheSnoot` model with a `fuzzy_one_to_boop` field. I want a list view which has the `BoopTheSnoot`s listed on some order. I want the template to have a button to move one BoopTheSnoot up one object in the list.,Instructional
+"thank you. in your step 2.4 above, you mention ""In Xcode, open the AppDelegate.swift file "". can you explain in more detail where the AppDelegate.swift file is? I don't see one in my project.",Instructional
+can you explain how to print the name of a excel workbook?,Instructional
+Okay. Let's move this messages list to the state,Instructional
+Can you explain what the `(goto-char (point-min))` line does?,Instructional
+"To be clear, I want the user to receive feedback when they touch an item in a list. What I do *not* want is for the user to receive this feedback when they are dragging to scroll the list.",Instructional
+can you write this 32 bit represantation and explain how it is decrement b one the total value ? ( x = a_frac - 32'h40000000; // x = a_frac - 1),Instructional
+"Now can you explain the recursion tree method.
+Make sure all your output is in a markdown code block so i can copy it",Instructional
+"Great, that works.
+I'm getting very bad responses from our app - they're out of context. Let's do those things:
+1. Please explain the available endpoints and models we can use in the app. Make it very short.
+2. The app is about a motivation couch. How can we custom the model to act as we want?",Instructional
+"i'm making an ios app.  it will be used during a schwingfest (swiss wrestling festival).  the app will be responsible for keeping track of the ""rangliste""s (scorecards).  there are 6 rounds in a schwingfest.  give me all the domain models i would need to build this app, as structs.  don't output anything else, just the models.",Instructional
+"We also need to update the filtered list to use the extracted code. FUll script again, same goal.",Instructional
+Nice! Could you explain a little more about how the code you wrote works? I want to learn and better understand the code.,Instructional
+Print out the output of `describe()` **on the training split**,Instructional
+"You see, the problem is in the chat input element. It's defined as a `ui.footer()`, which means it will always stay at the bottom of the page, outside the `ui.card()`.",Instructional
+how do I define the constructor in the source file?,Instructional
+please explain how did you obtain it from the input,Instructional
+you are using = instead of <= why can you explain this,Instructional
+"there are a few problems here:
+1. the sidebar doesn't go all the way up to the header. it should go up to the header and down to the footer
+2. if the content is taller than that, it should scroll rather than make the content bigger. we should always be able to see the footer
+3. it's only showing me the hex codes of the previous history. I want to see mini squares of the same palettes.
+4. it's appending the old palette hex codes to a flat list, but I wanted to see the *groups* of palettes",Instructional
+where the math symbols like \tau is defined in latex. giving sorce code is better,Instructional
+What is this :cpp17 custom constraint you mentioned?  Can you show where it would be defined?,Instructional
+"Alright, thanks for all of this info - it's helpful! 😁 
+
+What's the makeup of the `contours` list?",Instructional
+"yeah, that's what I was looking for. order of neighbors.
+Can you explain a little more about that?",Instructional
+Write list tile for movie model,Instructional
+"can you explain a bit more about Objects.wait() and thread.awaits()
+it is quite confusing",Instructional
+1. u cant define reg inside of always block 2. u can't use = inside of always block !,Instructional
+I have a list of file indexes followed by their file names. Some of the files have the same name when converted to lowercase. Rename the duplicate files to make them unique. Here are the files:,Instructional
+can you give me another example of the CameraFollow script but using vector2?,Few-shot
+give another example where you are ploting the frequency of a value within a column,Few-shot
+"Make sure that your package.json in the frontend directory has the necessary scripts for linting and formatting defined, similar to the previous examples.
+
+Add those scripts as a workflow step",Few-shot
+"you know what? Let's do it differently. 
+Here are some categories of stuff these packages allow you to do: 
+Work with audio video files
+Generate wordclouds
+Create charts and graphs
+Work with a database
+Edit video and audio files
+open zip
+
+Complete this list with 20-50 more examples of what you can do using these packages",Few-shot
+Give me another example of OOps,Few-shot
+can you update your examples bearing in mind the currect date today?,Few-shot
+can you show me another example of the pivot step,Few-shot
+"so in the first example, the person weighing 70 kgs wants to lose 5 kgs in what is essentially 2 weeks?bear in mind, it's 14th of july today",Few-shot
+"so in the 1st example, i got that the average calorie count would be near 1200 calories a day.
+does that seem right?",Few-shot
+Give me another example & also more discuss about more oops concepts,Few-shot
+"You are an expert prompt engineer and presenter giving a presentation to audience on language model prompt engineering workflow and best practices. can you explain prompt engineering tasks with examples of good and bad patterns - all tasks like and not limited to - embodiment, grounding, instructions, chain of thought,  in-context example, answer engineering, prompt  priming, meta prompting, retrieval augmented prompting, knowledge graph prompting, program of thought prompting, generate knowledge prompting etc.,. For each, provide clear easy explanation, description, example anti-pattern and pattern and real world prompts illustrating use of them for text language model interactions.",Personas
+"reviews.csvSpreadsheetI want you to act as a data visualizer. You will apply your knowledge of data science principles and visualization techniques to create compelling visuals that help convey complex information, develop effective graphs and maps for conveying trends over time or across geographies to design meaningful interactive dashboards, collaborate with subject matter experts in order to understand key needs and deliver on their requirements. please respond in many reasonable small sized chunks starting with the initial steps.",Personas
+"you are an expert in dsa.
+please teach me prefix sum concept with examples. You have to be very detailed about what you are saying. You have to use simple words to make it understand",Personas
+"Build basic one from scratch. See you are AWS engineer, so you always need to find a solution",Personas
+"creditcard.csvSpreadsheetI want you to act as an 10 years of experienced data scientist and have expertise in CRISP-DM methodology for data science. I am providing you kaggle dataset for credit card fraud detection, can you do step-by-step EDA analysis by acting as expert data scientist. As per my knowledge, credit card fraud detection dataset is having imbalanced data, so you can use techniques like oversampling, SMOTE, etc. Make sure you prepare all the steps and reports of the methodology in principled fashion on data understanding, data analysis, data visualization, data cleaning, data pre-processing, feature selection, data clustering, outlier analysis and processing, regression for prediction of fraud detection using variety of methods comparing to a baseline, providing proper metrics for these techniques and final recommendation. You can use most popular ML packages like scikit, pandas, numpy, etc. Please respond in many reasonable small sized chunks starting with the initial steps of CRISP-DM methodology to all the steps on this data set. I will ask you to continue after each chunk. It is important to chunk this above problem. repeat the requirement in each chunk towards end of the chunk and explain where you are (mindmap) in the process and what you will do next. Assume you have limited compute and hence you chunk carefully even the processing steps. I will ask you to continue after each step.",Personas
+"You are a chip design professional. You are trying to generate a vga controller model using verilog. It must have the following inputs and outputs;
+
+pixel clock as input and async active low reset
+
+outputs:
+n_blank;
+n_sync;
+h_sync aka horizontal sync;
+v_sync aka vertical sync;
+display_enable;
+row [31:0](y pixel cordinate);
+column  [31:0](x pixel cordinate);
+
+
+
+how would you create the model that meets these specicfications?",Personas
+Act as a frontend developer,Personas
+do you know how much of our conversation history you are able to evaluate when you provide me an answer to a question? our conversation is quite lengthy at this point; are you evaluating all of it when answering me now?,Personas
+you are a senior frontend developer specialized in React development. Your role is to help me create a React hook to fetch data using React Query,Personas
+Continue. Remember you are AWS Lead Machine Learning Engineer. Your plots have to be super beautiful to present to your amazing client IBM,Personas
+"FINAL_FROM_DF.csvSpreadsheetChatGPT, please act as an Expert in Data Science with proficiency in the CRISP-DM methodology. The uploaded file is an India Stock market. Understand data & decide machine learning problems and perform a step-by-step Exploratory Data Analysis (EDA). prepare all the steps and reports of the methodology in a principled fashion on data understanding, data analysis, data visualization, data cleaning, data preprocessing, feature selection, data clustering, outlier analysis, and processing. Provide proper metrics for these techniques and final recommendations. Use the best possible methods to solve the issue and adhere to industry best practices. Begin with the initial steps of the CRISP-DM methodology, and provide insights at each phase. Use best practice and also explain why it is best. Your expertise is crucial for the success of this project. Use your most popular ML packages like Scikit etc. Please respond in small size chunks starting with the initial steps of CRISP-DM methodology to all the steps for this data set. It is important to chunk this above problem and respond in chunks. Continue your process when I reply with the word next. repeat the requirement in each chunk towards the end of the chunk and explain where you are(mindmap) in the process and what will you do next. Assume you have limited computing and hence you chunk the process effectively. Your main objective is to understand the Dataset & cleanup if required, Build a model to predict stock price, and also fine-tune the hyperparameters.",Personas
+"I'd like you to help me craft the system prompt to feed the ChatGPT API. Here's the start of your context: ""Imagine yourself as a product manager in a mock interview scenario. You are helping train interviewers, so your role is to answer their questions as if you were a real product manager. Remember to stay in character throughout the conversation. If you encounter a question you do not have direct information on, use your knowledge to provide a believable response in the context of a product manager.""  In the next message, I will provide you an extended resume that you should shorten while not losing too much relevant context. After I give you the resume, give me the full system prompt back as a response with both the context here and in the resume summary you provide.",Personas
+You are a docker container expert. I would like for you to convert a docker-compose yml file that I give you into a separate script that builds these containers. Are you ready?,Personas
+You are a Deeplearning expert and use Pytorch framework.,Personas
+"tu es un expert react-native.
+J'ai un compsant textinput il a un placeholder avec un texte qui peut être pus grand que la plac disponible sur ios il y a bien ... petit point qui se mettent automatiquement à la fin du texte mais pas sur android.
+comment résoudre ce problème ?",Personas
+"you are an expert in dsa.
+please teach me two pointer approach concept with simple examples. You have to be very detailed about what you are saying. You have to use simple words to make it understand",Personas
+You are a product manager receiving requests from a client for building some software. You have to ensure that the requirements are reasonable and suited to solving the problem the users have.,Personas
+"you are adding the ""."" again, also can you put lower case letter first?",Personas
+"I want to find the cheapest microcontroller for sale on https://www.lcsc.com/ from STM that supports CAN Bus. Your output should be a list of 5 microcontrollers in-stock at LCSC with the part number, price, and link to the product page in a markdown table format.
+
+Let's work this out in a step by step way to be sure we have the right answer.",Chain-of-Thought
+"i feel like i'm rewriting the wholde codebase.
+i'm meant to be refactoring.
+is there a step by step way to examine the existing codebase, and then refactor?",Chain-of-Thought
+"I'm still getting the same output. Reflect on approach, think things through step by step and come up with a new solution to the problem.",Chain-of-Thought
+"im teaching react, typescript and material ui. i want to give my students to build simple app with router for todolist.
+can you show me how to build it step by step?",Chain-of-Thought
+"How to use gprof in CMake Project, Can you teach me step by step?",Chain-of-Thought
+please explain the code step by step,Chain-of-Thought
+"Is 17077 a prime number? Think step by step and then answer ""[Yes]"" or ""[No]"".",Chain-of-Thought
+New project! I am trying to create a fresh and clean development environment on my Macbook Pro. My environment has degraded over time and many of my tools no longer work. Can you help me get a clean start? Please work step by step and pause to ensure I have completed a step before moving to the next step. I first need to figure out how to completely clean up my current environment. What do you need to know to help me?,Chain-of-Thought
+"my calculation are this:
+4 + (4*3) + (12*2)
+here's my reasoning.
+the first term (4) is the all the possible moves for X
+the sencond term (4*3) is that all first four board have three move that O can take.
+And the last term (12*2) is the twelve boards that are create from the last step, and X can play in one of the two remaining spaces to win the game.
+That means that there are 40 possible game states.
+You can think about this step by step and see if you come to the same conclusion.",Chain-of-Thought
+i am building a DLL on visual studio 2019. How to sign it so it wont trigger false positively antivirus systems? Please give me descriptive step by step guide.,Chain-of-Thought
+"As an industry expert data scientist and expert in CRISP-DM methodology for data science, given the Kaggle dataset for Most streamed songs on Spotify in 2023, can you do step by step EDA analysis playing role of an expert data scientist professor teaching to a masters program in data science. Your response should be textbook quality. Make sure you prepare all the steps and reports of the methodology in principled fashion on fdata understanding, data analysis, data visualization, data cleaning, data pre processing, feature selection, data clustering, outlier analysis and processing, regression for prediction of income using variety of methods
+comparing to a baseline, providing proper metrics for these techniques and final recommendation. Use your most popular ml package like scikit etc... Please respond in many reasonable small sized chunks starting with the initial steps of CRISP-DM
+methodology to all the steps on this data set. I will ask you to continue after each chunk. It is important to chunk this above problem. repeat the requirement in each chunk towards end
+of the chunk and explain where you are (mindmap) in the process and what you will do next. Assume you have limited compute and hence you chunk carefully even the processing steps. I will ask you to continue. each step. Make sure you ask me before starting any next processing steps or working the data.",Chain-of-Thought
+"it doesn't sound like pad_token = eos_toke is a problem, right? Essentially during training is shouldn't be trained to predict pad_token, so it doesn't really matter since a pad should be a moment to stop/end the prediction of the sentence. So to me eos = pad is fine. Do you agree? Explain your reasoning.",Chain-of-Thought
+"check_uncertainty()
+think about it step by step, and understand which methods are available. we will test at each step.",Chain-of-Thought
+Here are multiple JS files. It is a digital edition of the original books of the city of Basel. I would like you to analyse the JS step by step from the point of view of a web development under user interface expert. The aim is to improve and update the website and improve quality of code.,Chain-of-Thought
+"Let's think step by step:
+
+Weight capacity 
+�
+=
+10
+W=10
+Weights of items 
+wt
+=
+[
+6
+,
+2
+,
+4
+,
+3
+,
+11
+]
+wt=[6,2,4,3,11]
+Values of items 
+vals
+=
+[
+20
+,
+8
+,
+14
+,
+13
+,
+35
+]
+vals=[20,8,14,13,35]
+
+what is the max capacity?",Chain-of-Thought
+"step by step tell me a path on how I can understand different machine learning models starting from simpler ones like CNN, and RNN all the way to moost complex like transformers. Mention all the models that are worth learning to understand the concepts of deep learning?",Chain-of-Thought
+"HistoricalQuotes.csvSpreadsheetconsider yourself an expert and well versed data scientist. You are fully aware of the CRISP-DM methodology and are well-versed in solving a data science problem end-to-end.  The dataset contains the daily price details of apple stock which contains date, close price, volume, open price, high and low. Predict the future price of the stock on a future date.                                                          can you do step by step EDA analysis playing role of an expert data scientist professor teaching to a masters program in data science. Your response should be textbook quality. Make sure you prepare all the steps and reports of the methodology in principled fashion on fdata understanding, data analysis, data visualization, data cleaning, data pre processing, feature selection, data clustering, outlier analysis and processing, regression for prediction of income using variety of methods comparing to a baseline, providing proper metrics for these techniques and final recommendation. Use your most popular ml package like scikit etc,.. Please respond in many reasonable small sized chunks starting with the initial steps of CRISP-DM methodology to all the steps on this data set. I will ask you to continue after each chunk. It is important to chunk this above problem. repeat the requirement in each chunk towards end of the chunk and explain where you are (mindmap) in the process and what you will do next. Assume you have limited compute and hence you chunk carefully even the processing steps. I will ask you to continue. each step.",Chain-of-Thought
+"sealevel.csvSpreadsheetyou are an industry expert and top notch data scientist. You are also expert in CRISP-DM methodology for data science and written several highly cited research papers of case studies of using crisp-dm data science for varlous data sets in kaggle.
+As an industry expert data scientist and expert in CRISP-DM methodology for data sclence, Given the kaggle data set for sea level can you do step by step EDA analysis playing role of an expert data scientist professor teaching to a masters program in data science. Your response should be textbook quality. Make sure you prepare all the steps and reports of the methõdology in principled fashion on data understanding, data analysis, data
+visualization, data cleaning, data pre-processing, feature selection, data clustering, outlier analysis and processing, regression for prediction of sea level using a variety of methods comparing to a baseline, providing proper metrics for these techniques and final recommendation. Use your most popular ml package like scikit etc. Please respond in many reasonable small sized chunks starting with the initial steps of CRISP-DM methodology to all
+the steps on this data set. I will ask you to continue after each chunk. It is important to chunk this above problem. repeat the requirement in each chunk towards end of the chunk and explain where you are (mindmap) in the process and what you will do next. Assume you have limited compute and hence you chunk carefully even the processing steps. I will ask you to continue, each step. dont reset the state until whole EDA process completes and save the dataset for each step.",Chain-of-Thought
+"ok, lets do it step by step, i first created the gameObject at the same level in the hierarchy as the SmallInventorySlots, but since im using a grid layout group, it shows on the screen next to the last inventory slot, now what do i do?",Chain-of-Thought
+"ets think about s-curves as a model of technology diffusion. lets use a epidemic model as the mathematical underpinning. the parameters are infection rate and share of total population that can maximally reached (market size).
+focus only on adopters. 
+
+In the next couple of prompts we’re going to develop an interactive dashboard together. I want to be able to experiment with different values of the infection rate beta, predict beta_hat using simulated data, and then experiment with predictions of beta_hat when we vary the number of samples used in the prediction. I’ll give you instructions step by step.",Chain-of-Thought
+"As an industry expert data scientist and expert in CRISP-DM methodology for data science,
+given the kaggle data set for highest earning e-sports players, can you do step by step EDA analysis playing role of an expert data scientist professor teaching to a masters program in data science. Your response should be textbook quality. Make sure you prepare all the steps and reports of the methodology in principled fashion on fdata understanding, data analysis, data visualization, data cleaning, data pre processing, feature selection, data clustering, outlier analysis and processing, regression for prediction of income using variety of methods
+comparing to a baseline, providing proper metrics for these techniques and final
+recommendation. Use your most popular ml package like scikit etc... Please respond in
+many reasonable small sized chunks starting with the initial steps of CRISP-DM
+methodology to all the steps on this data set. I will ask you to continue after each chunk. It is
+important to chunk this above problem. repeat the requirement in each chunk towards end
+of the chunk and explain where you are (mindmap) in the process and what you will do next.
+Assume you have limited compute and hence you chunk carefully even the processing
+steps. I will ask you to continue. each step.",Chain-of-Thought
+how to setup a git server? give me step by step instructions with all the commands necessary,Chain-of-Thought
+Help me achieve this all step by step,Chain-of-Thought
