@@ -4,7 +4,7 @@ Questo repository contiene gli script utilizzati per lo studio sulla **fairness*
 
 ## Contenuti
 
-- **`final_dataset.json`**: Dataset utilizzato per l'analisi.
+- **`final_dataset.json`**: Dataset utilizzato per l'analisi. Reperibile al link: https://www.dropbox.com/scl/fi/msaecqtnbnm05k33w9wia/final_dataset.json?rlkey=pwf1uv7uxjgmk135467649xj0&st=3wudi969&dl=0
 - **`fairness_pattern_scan.py`**: Script per identificare i pattern nei prompt e generare `prompt_fairness_full.csv`.
 - **`clean_fairness_dataset.py`**: Pulisce il dataset rimuovendo richieste di codice o snippet (che avrebbero reso più difficile l'analisi della fairness) e genera `prompt_fairness_clean_FINAL.csv`.
 - **`prompt_fairness_sample_FINAL.csv`**: Un campione casuale per la verifica manuale generato sempre all'interno di **`clean_fairness_dataset.py`**.
